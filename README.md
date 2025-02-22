@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/ada07e61-00fb-4666-9320-81177f5c6a1f)
+
 # Phantom-Trap-Deceptive-Honeypot-for-Cyber-Intrusion-Detection
 
 What is a honeypot?
